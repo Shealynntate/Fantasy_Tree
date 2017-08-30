@@ -3,7 +3,9 @@
 A small package of a few script and shader effects.
 A script attached to the main camera will allow you to move around the demo scene when played.
 
-![](http://i.imgur.com/svj5Pvc.gif)
+![](https://github.com/Shealynntate/Fantasy_Tree/blob/master/Gifs/TreeScene.gif)
+
+Note: the tree trunk was a free model taken from [this site](https://free3d.com/3d-model/tree-oak-17938.html) and modified. 
 
 ## Pixel Burn Effect
 
@@ -27,7 +29,9 @@ a sin wave based distortion on the uv coordinates over time.
 ## Setup
 
 Simply [download](https://github.com/Shealynntate/Fantasy_Tree/releases) the package and import it into a Unity project.
-The demo scene will run as shown above.
+The demo scene will run as shown.
+
+![](https://github.com/Shealynntate/Fantasy_Tree/blob/master/Gifs/TreePondFull.gif)
 
 ## License 
-[MIT License]
+[MIT License](https://github.com/Shealynntate/Fantasy_Tree/blob/master/LICENSE)
